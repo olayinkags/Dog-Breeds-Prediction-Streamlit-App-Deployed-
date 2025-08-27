@@ -8,7 +8,7 @@ The model is deployed as an interactive **Streamlit web app**.
 ## 📌 Overview
 - **Task:** Multiclass classification (dog breed recognition)  
 - **Model:** CNN built with **Keras + TensorFlow**  
-- **Dataset:** [Dog Breed Identification](https://www.kaggle.com/datasets/catherinehorng/dogbreedidfromcomp) (Kaggle)  
+- **Dataset:** [Dog Breed Prediction](https://www.kaggle.com/datasets/catherinehorng/dogbreedidfromcomp) (Kaggle)  
 - **Classes Supported:**  
   - Scottish Deerhound  
   - Maltese Dog  
